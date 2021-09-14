@@ -1,4 +1,4 @@
-<img align="left" width="300" height="300" src="http://38.media.tumblr.com/cab51a1ca7c93ed6637cac37e6adc149/tumblr_neitigAqpR1raiktro1_500.gif">
+<img align="left" width="300" height="300" src="https://i0.wp.com/hypebeast.com/image/2015/03/mind-bending-gifs-by-florian-de-looij-0.gif?w=960">
 
 ### Hi there, I'm Sashi boi  👋
 
