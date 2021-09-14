@@ -1,4 +1,4 @@
-<img align="left" width="300" height="300" src="https://cdn2.scratch.mit.edu/get_image/gallery/1625806_170x100.png">
+<img align="left" width="300" height="300" src="http://38.media.tumblr.com/cab51a1ca7c93ed6637cac37e6adc149/tumblr_neitigAqpR1raiktro1_500.gif">
 
 ### Hi there, I'm Sashi boi  👋
 
