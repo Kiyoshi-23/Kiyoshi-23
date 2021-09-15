@@ -1,4 +1,4 @@
-<img align="left" width="300" height="300" src="https://33.media.tumblr.com/7515a08f02dcfae28502c1665f670c09/tumblr_n7a40sXB7P1r2geqjo1_500.gif">
+<img align="left" width="300" height="300" src="https://c.tenor.com/TLEvMrXPyEIAAAAC/art-cool.gif">
 
 ### Hi there, I'm Sashi boi  👋
 
