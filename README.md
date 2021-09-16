@@ -1,4 +1,4 @@
-<img align="left" width="300" height="300" src="https://c.tenor.com/TLEvMrXPyEIAAAAC/art-cool.gif">
+<img align="left" width="300" height="300" src="https://i.pinimg.com/originals/57/2a/1c/572a1cb7e19e86283f0e38fc11d26753.gif">
 
 ### Hi there, I'm Sashi boi  👋
 
