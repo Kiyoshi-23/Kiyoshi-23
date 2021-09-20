@@ -3,9 +3,9 @@
 ### Hi there, I'm Sashi boi  👋
 
 - > I’m currently working on fun coding projects.
-- > I’m currently learning Python and JavaScript.
+- > I’m currently learning Python and JavaScript code.
 - > Ask me about my athletic abilities.
 - > How to reach me: @Sashi_Boi(Twitter), Sashi_Boi#1689(Discord).
-- > Pronouns: He/him
 - > Fun fact: I have six fingers.
-- > Feel free to give me suggestions on any of my work!
+- > Pronouns: He/him
+
