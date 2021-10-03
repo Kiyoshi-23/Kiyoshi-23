@@ -5,7 +5,7 @@
 - > I’m currently working on fun coding projects.
 - > I’m currently learning Python.
 - > Ask me about my athletic abilities.
-- > How to reach me: **@Sashi_Boi(Twitter)**, **Sashi_Boi#1689(Discord)**.
+- > How to reach me: **@Sashi_Boi(Twitter)**, **良いボイ#1689(Discord)**.
 - > Fun fact: I have six fingers.
 - > Pronouns: He/him
 
