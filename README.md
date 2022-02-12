@@ -8,7 +8,7 @@
 - > How to reach me: @Sashi_Boi(Twitter), 良いボイ#1689(Discord).
 - > Fun fact: I have six fingers.
 - > Pronouns: He/him
-color: #08B485
+color: #0E7A66
 ```
 
 
