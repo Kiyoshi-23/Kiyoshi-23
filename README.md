@@ -5,7 +5,7 @@
 - > I’m currently working on fun coding projects.
 - > I’m currently learning Python and JavaScript.
 - > Ask me about my athletic abilities.
-- > How to reach me: @Sashi_Boi(Twitter), 良いボイ#1689(Discord).
+- > How to reach me: @Kiyoshi_122(Twitter), ☆✧ Kiyoshi#5246(Discord).
 - > Fun fact: I have six fingers.
 - > Pronouns: He/him
 color: #0E7A66
