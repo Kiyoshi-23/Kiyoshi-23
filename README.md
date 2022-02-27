@@ -1,6 +1,6 @@
 <img align="left" width="300" height="300" src="https://i.pinimg.com/originals/86/a6/bc/86a6bc75047b320bb3892a3cefa5e78f.gif">
 
-### Hi there, I'm Sashi boi  👋
+### Hi there, I'm Kiyoshi  👋
 ```css
 - > I’m currently working on fun coding projects.
 - > I’m currently learning Python and JavaScript.
