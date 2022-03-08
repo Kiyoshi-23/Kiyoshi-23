@@ -1,13 +1,13 @@
 <img align="left" width="300" height="300" src="https://i.pinimg.com/originals/86/a6/bc/86a6bc75047b320bb3892a3cefa5e78f.gif">
 
 ### Hi there, I'm Kiyoshi  👋
-```css
-- > I’m currently working on fun coding projects.
-- > I’m currently learning Python and JavaScript.
+```java
+- > I’m currently working on coding projects.
+- > I’m currently learning C# and Git.
 - > Ask me about my athletic abilities.
 - > How to reach me: @Kiyoshi_122(Twitter), Kiyoshi#5246(Discord).
 - > Fun fact: I have six fingers.
-- > Pronouns: He/him
+- > Pronouns: He/him, They/them.
 color: #0E7A66
 ```
 
