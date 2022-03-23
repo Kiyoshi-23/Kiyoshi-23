@@ -3,7 +3,7 @@
 ### Hi there, I'm Kiyoshi  👋
 ```yml
 - > I’m currently working on coding projects.
-- > I’m currently learning C# and Git.
+- > I’m currently learning C# and Git through CS50: harvards introductory course to cs.
 - > Ask me about my athletic abilities.
 - > How to reach me: @Kiyoshi_122(Twitter), Kiyoshi#5246(Discord).
 - > Fun fact: I have six fingers.
